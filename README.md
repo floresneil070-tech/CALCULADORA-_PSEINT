@@ -1,8 +1,8 @@
-# CALCULADORA-_PSEINT
-ESTA CALCULADORA FUE HECHA CON EL PROPOSITO DE UN PROYECTO UNIVERSITARIO
 #  Calculadora Multifuncional en PSeInt
 
+**Autor:** FLORES ESCOBEDO NEIL GUDALUPE
 
+![Logo de PSeInt](https://i.imgur.com/y1rA8Qy.png)
 
 ## 🎯 1. Qué Hicimos (Descripción del Proyecto)
 
