@@ -2,7 +2,7 @@
 
 **Autor:** FLORES ESCOBEDO NEIL GUDALUPE
 
-![Logo de PSeInt](https://i.imgur.com/y1rA8Qy.png)
+
 
 ## 🎯 1. Qué Hicimos (Descripción del Proyecto)
 
